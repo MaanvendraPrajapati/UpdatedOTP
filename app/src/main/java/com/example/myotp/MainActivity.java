@@ -172,7 +172,7 @@ public class MainActivity extends AppCompatActivity {
                         String phone=firebaseAuth.getCurrentUser().getPhoneNumber();
                         Toast.makeText(MainActivity.this, "Logged in as "+phone, Toast.LENGTH_SHORT).show();
 
-                        startActivity(new Intent(MainActivity.this,Profile.class));
+                        //startActivity(new Intent(MainActivity.this,Profile.class));
                     }
                 })
                 .addOnFailureListener(new OnFailureListener() {
