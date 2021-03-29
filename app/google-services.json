@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "544289707058",
+    "firebase_url": "https://otpsender-249d5.firebaseio.com",
+    "project_id": "otpsender-249d5",
+    "storage_bucket": "otpsender-249d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544289707058:android:64d156315fef3cb449582b",
+        "android_client_info": {
+          "package_name": "com.example.myotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544289707058-7v6lpbidp25pip1p4kd82blorbspejam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTdsGhRTq--veGfUPXfXVP6_9POaZ__0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544289707058-7v6lpbidp25pip1p4kd82blorbspejam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
